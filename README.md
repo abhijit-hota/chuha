@@ -21,9 +21,8 @@ A small, unoptimized and ugly `bash` and `awk` script to track your mouse and to
     ```sh
     sh ./chuha.sh & disown
     ```
-**Optional**: Add the script to your startup programs.
+7. **Optional**: Add the script to your startup programs.
 
-Thanks!
-____
+Enjoy!
 
 [^1]: A PR is welcome which abstracts out the `awk` part and makes the script more generic to N number of devices.
